@@ -2,3 +2,11 @@
 venv
 superuser.txt
 session.nvim
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
